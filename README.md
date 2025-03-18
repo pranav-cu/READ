@@ -17,7 +17,7 @@
         .btn {
             background-color: #2ecc71;
             color: white;
-            padding: 10px 20px;
+            padding: 10px;
             border: none;
             cursor: pointer;
             font-size: 18px;
